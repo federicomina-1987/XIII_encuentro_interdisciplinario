@@ -5,10 +5,10 @@
 
 Este repositorio contiene el código fuente de la página web oficial y el programa interactivo del **XIII Encuentro Interdisciplinario**, organizado por el Instituto de Humanidades (IDH). La plataforma está diseñada para ofrecer a los asistentes y ponentes una herramienta ágil para navegar por el cronograma, las mesas y las exposiciones del evento.
 
+Creado por: Federico Daniel Mina, 2026.
+
 **🔗 [Visitar el Sitio Web en Vivo**](https://idhinstitutodehumanidades-rgb.github.io/XIII_encuentro_interdisciplinario/?utm_source=gemini#/)
 
-
-Creado por: Federico Daniel Mina, 2026.
 ---
 
 ## Características Principales
